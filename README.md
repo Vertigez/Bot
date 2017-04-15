@@ -10,7 +10,7 @@ Come creare un bot:
 
 Come scaricare la source:
 1. Se non è presente fare: apt-get install git
-2. git clone link.git
+2. git clone https://github.com/zMaurizio00/TelegramFloodStormBot.git
 
 Come collegare un bot gli script:
 1. Inserisci la apitoken del tuo bot in bot1.py al posto di "Your Token".
@@ -31,7 +31,7 @@ How to create a bot:
 
 How to download the source:
 1. If there is to do: apt-get install git
-2. git clone link.git
+2. git clone https://github.com/zMaurizio00/TelegramFloodStormBot.git
 
 How to connect a bot scripts:
 1. Include your apitoken bots in bot1.py instead of "Your Token".
