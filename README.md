@@ -8,6 +8,10 @@ Come creare un bot:
 4. Scrivi /setprivacy e settalo su disabled, altrimenti solo un bot risponderà al comando.
 5. Per inserire la foto fare /setuserpic e invia la foto del bot.
 
+Come scaricare la source:
+1. Se non è presente fare: apt-get install git
+2. git clone link.git
+
 Come collegare un bot gli script:
 1. Inserisci la apitoken del tuo bot in bot1.py al posto di "Your Token".
 2. Per cambiare i messaggi vai in script.py.
@@ -24,6 +28,10 @@ How to create a bot:
 3. Enter your @, es.Flood1Bot, Flood2Bot .....
 4. Write / setprivacy and settalo to disabled, otherwise only a bot will respond to the command.
 5. To enter the photo do / setuserpic and send the photo of the bot.
+
+How to download the source:
+1. If there is to do: apt-get install git
+2. git clone link.git
 
 How to connect a bot scripts:
 1. Include your apitoken bots in bot1.py instead of "Your Token".
