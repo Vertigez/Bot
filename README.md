@@ -23,11 +23,11 @@ Come collegare un bot gli script:
 =================================================================================
 
 How to create a bot:
-1. Write to @BotFather / newbot
+1. Write to @BotFather /newbot
 2. Enter the name of the bot
 3. Enter your @, es.Flood1Bot, Flood2Bot .....
-4. Write / setprivacy and settalo to disabled, otherwise only a bot will respond to the command.
-5. To enter the photo do / setuserpic and send the photo of the bot.
+4. Write /setprivacy and settalo to disabled, otherwise only a bot will respond to the command.
+5. To enter the photo do /setuserpic and send the photo of the bot.
 
 How to download the source:
 1. If there is to do: apt-get install git
@@ -39,6 +39,6 @@ How to connect a bot scripts:
 3. To add more bots copy bot1.py bot2.py and create files, and insert in bot2.py
    The second token bot, bot same with the third and all the others.
 4. "sh start.sh" to start all bots.
-5. To flooddare a group you have to add them and send "/ flodd".
+5. To flooddare a group you have to add them and send "/flodd".
 
 Developer by @Maurizio00YT on Telegram (@FloodStorm)
