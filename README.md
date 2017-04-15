@@ -41,4 +41,4 @@ How to connect a bot scripts:
 4. "sh start.sh" to start all bots.
 5. To flooddare a group you have to add them and send "/ flodd".
 
-Developer by @Maurizio00YT on telegram (@FloodStorm)
+Developer by @Maurizio00YT on Telegram (@FloodStorm)
