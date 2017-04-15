@@ -17,8 +17,10 @@ Come collegare un bot gli script:
 2. Per cambiare i messaggi vai in script.py.
 3. Per inserire altri bot copiare il file bot1.py e creare bot2.py, e inserire in bot2.py 
    il token del secondo bot, stessa cosa col terzo bot e tutti gli altri.
-4. Fare "sh start.sh" per avviare tutti i bot.
-5. Per flooddare un gruppo bisogna aggiungerli e inviare "/flodd".
+4. Installare pip3 se non presente eseguendo "apt-get install python3-pip".
+5. Installare python-telegram-bot eseguendo "pip3 install python-telegram-bot".
+6. Fare "sh start.sh" per avviare tutti i bot.
+7. Per flooddare un gruppo bisogna aggiungerli e inviare "/flodd".
 
 =================================================================================
 
@@ -38,7 +40,9 @@ How to connect a bot scripts:
 2. To change the messages go in script.py.
 3. To add more bots copy bot1.py bot2.py and create files, and insert in bot2.py
    The second token bot, bot same with the third and all the others.
-4. "sh start.sh" to start all bots.
-5. To flood a group you have to add them and send "/flodd".
+4. Install pip3 if you do not mind running "apt-get install python3-pip."
+5. Install python-telegram-bot performing "pip3 install python-telegram-bot".
+6. "sh start.sh" to start all bots.
+7. To flooddare a group you have to add them and send "/flodd".
 
 Developer by @Maurizio00YT on Telegram (@FloodStorm)
