@@ -39,6 +39,6 @@ How to connect a bot scripts:
 3. To add more bots copy bot1.py bot2.py and create files, and insert in bot2.py
    The second token bot, bot same with the third and all the others.
 4. "sh start.sh" to start all bots.
-5. To flooddare a group you have to add them and send "/flodd".
+5. To flood a group you have to add them and send "/flodd".
 
 Developer by @Maurizio00YT on Telegram (@FloodStorm)
