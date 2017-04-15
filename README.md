@@ -16,7 +16,7 @@ Come collegare un bot gli script:
 4. Fare "sh start.sh" per avviare tutti i bot.
 5. Per flooddare un gruppo bisogna aggiungerli e inviare "/flodd".
 
-=============================================================================================
+=================================================================================
 
 How to create a bot:
 1. Write to @BotFather / newbot
