@@ -19,8 +19,9 @@ Come collegare un bot gli script:
    il token del secondo bot, stessa cosa col terzo bot e tutti gli altri.
 4. Installare pip3 se non presente eseguendo "apt-get install python3-pip".
 5. Installare python-telegram-bot eseguendo "pip3 install python-telegram-bot".
-6. Fare "sh start.sh" per avviare tutti i bot.
-7. Per flooddare un gruppo bisogna aggiungerli e inviare "/flodd".
+6. Modificare il file start.sh.
+7. Fare "sh start.sh" per avviare tutti i bot.
+8. Per flooddare un gruppo bisogna aggiungerli e inviare "/flodd".
 
 =================================================================================
 
@@ -42,7 +43,8 @@ How to connect a bot scripts:
    The second token bot, bot same with the third and all the others.
 4. Install pip3 if you do not mind running "apt-get install python3-pip."
 5. Install python-telegram-bot performing "pip3 install python-telegram-bot".
-6. "sh start.sh" to start all bots.
-7. To flooddare a group you have to add them and send "/flodd".
+6. Edit the file start.sh.
+7. "sh start.sh" to start all bots.
+8. To flood a group you have to add them and send "/flodd".
 
 Developer by @Maurizio00YT on Telegram (@FloodStorm)
