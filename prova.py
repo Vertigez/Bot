@@ -8,7 +8,7 @@ def leave(bot, update):
  
 def flodd(bot, update):
     while leave:
-         bot.sendMessage(chat_id=update.message.chat_id, text="Captain is a shit")
+		 bot.sendPhoto(chat_id, "Link");
          sleep(0.05)
 		 
 #Non toccare questo script se non sai riprogrammarlo, modifica solo i messaggi.
